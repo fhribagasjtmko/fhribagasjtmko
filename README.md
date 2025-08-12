@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bagas</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h1 align="center">hallo saya fahri bagas jatmiko</h1>
+<h3 align="center">saya pelajar dari indonesia</h3>
 
 ---
 
