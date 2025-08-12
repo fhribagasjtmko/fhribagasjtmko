@@ -1,5 +1,5 @@
-<h1 align="center">hallo saya, fahri bagas jatmiko</h1>
-<h3 align="center">saya pelajar dari indonesia</h3>
+<h1 align="center">Hi bung</h1>
+---<h3 align="center">saya pelajar dari indonesia</h3>---
 <h3 align="center">frontend and backend developer and Cybersecurity enthusiast.</h3>
 
 ---
