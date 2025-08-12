@@ -52,8 +52,8 @@
   <a href="https://github.com/fhribagasjtmko/lksn-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=lksn-frontend&theme=tokyonight" />
   </a>
-  <a href="https://github.com/fhribagasjtmko/lksn-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=lksn-frontend&theme=tokyonight" />
+  <a href="https://github.com/fhribagasjtmko/lksn-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=lksn-backend&theme=tokyonight" />
   </a>
 </p>
 
