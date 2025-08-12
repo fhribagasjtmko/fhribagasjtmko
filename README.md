@@ -41,14 +41,6 @@
 
 ---
 
-### Snake Contribution
-
-> Untuk menampilkan "ular" di contribution chart, tambahkan workflow `snake.yml` (file contoh ada di bawah). Setelah workflow berjalan, file SVG akan muncul di branch `output` dan bisa di-embed seperti GIF/SVG.
-
-![snake gif](https://github.com/fhribagasjtmko/fhribagasjtmko/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### Featured Repositories
 <p align="center">
   <a href="https://github.com/fhribagasjtmko/laravel12-crud">
@@ -62,7 +54,7 @@
 ---
 
 ###  Contact
-- Email: `youremail@example.com`  
-- Instagram: [@yourusername](https://instagram.com/yourusername)
+- Email: 
+- Instagram:
 
 ---
