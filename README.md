@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fhribagasjtmko&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhribagasjtmko&layout=compact&theme=tokyonight" height="160"/>
@@ -22,12 +22,7 @@
 
 ---
 
-### 🐍 Snake Contribution
-![snake gif](https://github.com/fhribagasjtmko/fhribagasjtmko/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📂 Featured Repositories
+###  Repositories
 <p align="center">
   <a href="https://github.com/fhribagasjtmko/laravel-project-bagas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=laravel-project-bagas&theme=tokyonight" />
