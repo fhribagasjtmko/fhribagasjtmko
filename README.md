@@ -33,7 +33,7 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fhribagasjtmko&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fhribagasjtmko&show_icons=true&theme=tokyonight&langs_count=10&v=1" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhribagasjtmko&layout=compact&theme=tokyonight&langs_count=10&v=1" height="160"/>
 </p>
 
