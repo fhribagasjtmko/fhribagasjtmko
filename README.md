@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Bagas (fhribagasjtmko)</h1>
-<h3 align="center">Passionate frontend & backend developer · Cybersecurity enthusiast</h3>
+<h1 align="center">hallo saya, fahri bagas jatmiko</h1>
+<h3 align="center">saya pelajar dari indonesia</h3>
+<h3 align="center">frontend and backend developer ·and Cybersecurity enthusiast.</h3>
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 <p align="center">
   <!-- Frontend -->
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fhribagasjtmko&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhribagasjtmko&layout=compact&theme=tokyonight" height="160"/>
@@ -40,7 +41,7 @@
 
 ---
 
-### 🐍 Snake Contribution
+### Snake Contribution
 
 > Untuk menampilkan "ular" di contribution chart, tambahkan workflow `snake.yml` (file contoh ada di bawah). Setelah workflow berjalan, file SVG akan muncul di branch `output` dan bisa di-embed seperti GIF/SVG.
 
@@ -48,7 +49,7 @@
 
 ---
 
-### 📂 Featured Repositories
+### Featured Repositories
 <p align="center">
   <a href="https://github.com/fhribagasjtmko/laravel12-crud">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=laravel12-crud&theme=tokyonight" />
@@ -60,18 +61,8 @@
 
 ---
 
-### ✨ About me
-- 🔭 I’m currently working on **Laravel** & **React** projects
-- 🌱 I’m learning **TypeScript**, **Next.js**, and advanced **web security**
-- 🧰 Tools: VSCode, Docker, Postman, Git, Burp Suite
-- ⚡ Fun fact: I love retro camera filters and UI animations
-
----
-
-### 📫 Contact
+###  Contact
 - Email: `youremail@example.com`  
 - Instagram: [@yourusername](https://instagram.com/yourusername)
 
 ---
-
-> _TIP_: Replace `youremail@example.com` and social links with your actual contact info. If you want different theme colors for the stats, change the `theme=` param in the stats URLs.
