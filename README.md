@@ -52,6 +52,9 @@
   <a href="https://github.com/fhribagasjtmko/lksn-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=lksn-backend&theme=tokyonight" />
   </a>
+  <a href="https://github.com/fhribagasjtmko/dist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=dist&theme=tokyonight" />
+  </a>
 </p>
 
 ---
