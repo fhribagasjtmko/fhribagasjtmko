@@ -1,4 +1,4 @@
-<h1 align="center">hello world</h1>
+<h1 align="center">hi bro</h1>
 <h3 align="center">frontend and backend developer and Cybersecurity enthusiast.</h3>
 
 ---
@@ -43,8 +43,8 @@
   <a href="https://github.com/fhribagasjtmko/laravel12-crud">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=laravel12-crud&theme=tokyonight" />
   </a>
-  <a href="https://github.com/fhribagasjtmko/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=portfolio&theme=tokyonight" />
+  <a href="https://github.com/fhribagasjtmko/fhribagasjtmko.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=fhribagasjtmko.github.io&theme=tokyonight" />
   </a>
   <a href="https://github.com/fhribagasjtmko/lksn-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhribagasjtmko&repo=lksn-frontend&theme=tokyonight" />
