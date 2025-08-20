@@ -1,5 +1,12 @@
 <h1 align="center">hi bro</h1>
 <h3 align="center">frontend and backend developer and Cybersecurity enthusiast.</h3>
+<p align="center">
+  <img align="left" alt="Laravel" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/laravel.png" />
+<img align="left" alt="Next Js" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/next-js.png" />
+<img align="left" alt="Tailwind" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/tailwind.png" />
+</p>
+
+
 
 ---
 
@@ -33,9 +40,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fhribagasjtmko&show_icons=true&theme=tokyonight&langs_count=10&v=1" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhribagasjtmko&layout=compact&theme=tokyonight&langs_count=10&v=1" height="160"/>
-  <img align="left" alt="Laravel" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/laravel.png" />
-  <img align="left" alt="Next Js" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/next-js.png" />
-  <img align="left" alt="Tailwind" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/tailwind.png" />
 </p>
 
 ---
