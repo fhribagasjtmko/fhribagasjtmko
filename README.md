@@ -1,16 +1,5 @@
 <h1 align="center">hi bro</h1>
 <h3 align="center">frontend and backend developer and Cybersecurity enthusiast.</h3>
-
----
-
-
-### My Top Frameworks / Library
-
-<img align="left" alt="Laravel" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/laravel.png" />
-<img align="left" alt="Next Js" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/next-js.png" />
-<img align="left" alt="Tailwind" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/tailwind.png" />
-
-
 ---
 
 ### Tech Stack
