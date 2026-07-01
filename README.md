@@ -1,5 +1,5 @@
 <h1 align="center">hi bro</h1>
-<h3 align="center">frontend and backend developer and Cybersecurity enthusiast.</h3>
+<h3 align="center">backend developer and Cybersecurity enthusiast.</h3>
 
 
 ---
